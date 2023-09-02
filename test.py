@@ -1,6 +1,6 @@
 
 # This is the modified content of test_gist.py
-print("Hello, this is the modified version1!")
+print("Hello, this is the modified version0!")
 
-numbers = [x for x in range(1, 10)]
+numbers = [x for x in range(1, 9)]
 print(numbers)
